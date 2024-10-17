@@ -1,0 +1,7 @@
+[hosts]
+odisys.id:1928 ansible_user=nito
+omile.id:1928 ansible_user=nito
+pandu.ops.odisys.id:1928 ansible_user=nito
+jal-cias.omile.id:23022 ansible_user=root
+sso.kamadjaja.com:4646 ansible_user=nito
+onepiece.odisys.id:1928 ansible_user=nito
