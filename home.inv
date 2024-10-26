@@ -1,0 +1,5 @@
+[hosts]
+centos6.local ansible_python_interpreter=/usr/local/bin/python3.7
+centos8.local ansible_python_interpreter=/usr/bin/python3.8
+ubuntu.local  ansible_python_interpreter=/usr/bin/python3.8
+
